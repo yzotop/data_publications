@@ -1,0 +1,46 @@
+---
+tags:
+  - data
+author: Babushkin
+data_type:
+  - AB tests
+---
+[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://uberkinder.notion.site/A-B-8bcc0fdc69bb4a0997a7d767e1a9d94b)
+
+-   [ ] [Статистика и АБ-тестирование @ Wiki](https://wiki.yandex-team.ru/users/budylin/onlajjn-metriki-i-ab-testirovanie-dlja-butkempa-po-ml/)
+-   [ ] [Analyzing Experiment Outcomes: Beyond Average Treatment Effects | Uber Engineering Blog](https://eng.uber.com/analyzing-experiment-outcomes/)
+-   [ ] [Simple Sequential A/B Testing – Evan Miller](http://www.evanmiller.org/sequential-ab-testing.html)
+-   [ ] [A/B Testing Rigorously (without losing your job) | Hacker News](https://news.ycombinator.com/item?id=5112378)
+-   [ ] [Bayesian A/B test code](https://gist.github.com/stucchio/9090456)
+-   [ ] [Agile A/B testing with Bayesian Statistics and Python](https://web.archive.org/web/20150419163005/http://www.bayesianwitch.com/blog/2014/bayesian_ab_test.html)
+-   [ ] [Why use a Bayesian approach to A/B testing? - Swrve Help Center](https://docs.swrve.com/faqs/ab-testing-faq/bayesian-approach-to-ab-testing/)
+-   [ ] [Is Bayesian A/B Testing Immune to Peeking? Not Exactly – Variance Explained](http://varianceexplained.org/r/bayesian-ab-testing/)
+-   [ ] [Doing Bayesian Data Analysis: Optional stopping in data collection: p values, Bayes factors, credible intervals, precision](http://doingbayesiandataanalysis.blogspot.com/2013/11/optional-stopping-in-data-collection-p.html)
+-   [ ] [Rapid A/B-testing with Sequential Analysis | Audun M Øygard](https://www.auduno.com/2014/12/25/rapid-a-b-testing-with-sequential-analysis/)
+-   [ ] [A/B Testing Rigorously (without losing your job)](http://elem.com/~btilly/ab-testing-multiple-looks/part1-rigorous.html)
+-   [ ] [Easy Evaluation of Decision Rules in Bayesian A/B testing - Chris Stucchio](https://www.chrisstucchio.com/blog/2014/bayesian_ab_decision_rule.html)
+-   [ ] [The Power of Bayesian A/B Testing – Convoy Tech – Medium](https://medium.com/convoy-tech/the-power-of-bayesian-a-b-testing-f859d2219d5)
+-   [ ] [Understanding Bayesian A/B testing (using baseball statistics) – Variance Explained](http://varianceexplained.org/r/bayesian_ab_baseball/)
+-   [ ] [045. Как измерить счастье пользователя — Илья Кацев - YouTube](https://www.youtube.com/watch?v=vIdwgJFz5Mk&feature=youtu.be&t=1062)
+-   [ ] [Delta method - Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
+-   [ ] [Improving the Sensitivity of Online Controlled Experiments: Case Studies at Netflix](https://www.kdd.org/kdd2016/papers/files/adp0945-xieA.pdf)
+-   [ ] [How](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d) [Booking.com](http://booking.com/) [increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
+-   [ ] [p_hacking.pdf](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
+-   [ ] [wsdm55-deng.dvi](https://exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf)
+-   [ ] [A/B Materials for In-Depth Study · martsen](https://martsen.me/posts/ab-list/)
+-   [ ] [An introduction to the Poisson bootstrap](http://www.unofficialgoogledatascience.com/2015/08/an-introduction-to-poisson-bootstrap26.html)
+-   [ ] [How to Deal With Ratio Metrics When Accounting for Intra-User Correlation in A/B Testing](https://arxiv.org/pdf/1911.03553.pdf)
+-   [ ] [Applying the Delta Method in Metric Analytics: A Practical Guide with Novel Ideas](https://arxiv.org/pdf/1803.06336.pdf)
+-   [ ] [Uncertainty in Online Experiments with Dependent Data:](https://arxiv.org/pdf/1304.7406.pdf)
+-   [ ] [Bootstrap with weights](https://gist.github.com/wiso/42e10edb3104551ef69ef6238929fdaa)
+-   [ ] [Continuous Monitoring of A/B Tests without Pain: Optional Stopping in Bayesian Testing](https://arxiv.org/pdf/1602.05549.pdf)
+-   [ ] [FAIRNESS THROUGH EXPERIMENTATION: INEQUALITY IN A/B TESTING AS AN APPROACH TO RESPONSIBLE DESIGN](https://arxiv.org/pdf/2002.05819.pdf)
+-   [ ] [si-notes.pdf](https://warwick.ac.uk/fac/sci/statistics/apts/students/resources-1819/si-notes.pdf)
+-   [ ] [What Teachers Should Know about the Bootstrap: Resampling in the Undergraduate Statisticsat Teachers Should Know about the Bootstrap: Resampling in the Undergraduate Statistics](https://arxiv.org/pdf/1411.5279.pdf)
+-   [ ] [Split-door criterion: Identification of causal effects through auxiliary outcomes](https://arxiv.org/pdf/1611.09414.pdf)
+-   [ ] [Detecting Network Effects: Randomizing Over Randomized Experiments](https://web.stanford.edu/~msaveski/assets/publications/2017_detecting_network_effects/paper.pdf)
+-   [ ] [Interactive identification of individuals with positive treatment effect while controlling false discoveries](https://arxiv.org/pdf/2102.10778.pdf)
+-   [ ] [Using Sentiment Score to Assess Customer Service Quality | by Shuai Shao (Shawn) | The Airbnb Tech Blog | Jul, 2021 | Medium](https://medium.com/airbnb-engineering/using-sentiment-score-to-assess-customer-service-quality-43434dbe199b)
+-   [ ] [Experiments at Airbnb | by AirbnbEng | The Airbnb Tech Blog | Medium](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7)
+-   [ ] [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://economics.mit.edu/files/17847)
+-   [ ] [Trustworthy Online Marketplace Experimentation with Budget-split Design](https://arxiv.org/pdf/2012.08724.pdf)
