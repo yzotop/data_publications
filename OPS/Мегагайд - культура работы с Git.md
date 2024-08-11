@@ -6,8 +6,7 @@ source: habr
 data_type:
   - DevOps
 ---
-[[как информативно оформить профиль на GitHub]]
-[[как информативно оформить профиль на GitHub]]
+[[Как информативно оформить профиль на GitHub]]
 
 Привет всем! Меня зовут Юля, я фронтенд-разработчик, наставник на курсах по JS и React и организатор профессионального сообщества Tbilisi JS. В Практикуме я помогаю студентам на курсе «[React-разработчик](https://practicum.yandex.ru/react/?utm_source=content&utm_medium=media&utm_campaign=habr_media_RF_Prog_reac_b2c_Article_None_upskill&utm_content=07_05_2024)».
 
