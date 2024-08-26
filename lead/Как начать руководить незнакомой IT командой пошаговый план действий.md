@@ -1,5 +1,4 @@
 ---
-author: Перескокова
 tags:
   - data
 data_type:
