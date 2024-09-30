@@ -6,6 +6,7 @@ data_type:
 author: Mosin
 link: https://habr.com/ru/companies/sbermarket/articles/768826/
 source: habr
+company: Kuper
 ---
 [[База - айсберг AB тестов]]
 [[Бутстрап швейцарский нож аналитика в AB-тестах]]

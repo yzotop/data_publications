@@ -6,6 +6,7 @@ data_type:
   - AB tests
 source: habr
 author: Mosin
+company: Kuper
 ---
 [[Бутстрап швейцарский нож аналитика в AB-тестах]]
 [[Линеаризация - зачем и как укрощать ratio-метрики в AB-тестах]]

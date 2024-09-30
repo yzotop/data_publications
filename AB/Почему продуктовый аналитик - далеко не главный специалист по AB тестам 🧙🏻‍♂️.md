@@ -6,6 +6,7 @@ data_type:
 link: https://t.me/suranalytics/182
 source: telegram
 author: Balandin
+company: Aviasales
 ---
 ![[Pasted image 20240816182448.png]]
 

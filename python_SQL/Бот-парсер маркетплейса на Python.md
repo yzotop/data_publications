@@ -3,6 +3,8 @@ tags:
   - data
 link: https://habr.com/ru/companies/amvera/articles/834582/
 source: habr
+company: Amvera
+author: Amvera
 ---
 Всем привет! В этой статье я решил показать один из методов парсинга на Python на примере маркетплейса Wildberries.
 

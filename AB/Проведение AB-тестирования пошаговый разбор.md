@@ -5,6 +5,8 @@ link: https://habr.com/ru/companies/plarium/articles/526706/
 source: habr
 data_type:
   - AB tests
+company: Plarium
+author: Plarium
 ---
 Это репост статьи, [опубликованной](https://dou.ua/lenta/articles/six-steps-of-ab-testing/) на сайте dou.ua. В статье Анна Пономарева, Game Analyst в Plarium Kharkiv, делится личными наработками по проведению A/B-тестирования: описывает каждый шаг, освещает сложности и ловушки, с которыми можно столкнуться, и рассказывает об опыте их решения.  
   

@@ -7,6 +7,7 @@ link: https://t.me/suranalytics/196
 data_type:
   - AB tests
 ab_type: Peeking
+company: Aviasales
 ---
 
 [ab\_testing/sequential\_testing\_at\_netflix\_simulation.ipynb at main · YuriyBalandin/ab\_testing · GitHub](https://github.com/YuriyBalandin/ab_testing/blob/main/sequential_testing_at_netflix_simulation.ipynb)

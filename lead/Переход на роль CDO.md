@@ -4,7 +4,8 @@ tags:
 author: Abazov
 data_type:
   - Lead
-company: Tinkoff
+company: TBank
+source: facebook
 ---
 Недавно я перешёл на роль CDO. Давно планировал писать сюда некоторые заметки и наблюдения, поделиться опытом.  
   

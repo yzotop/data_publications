@@ -5,6 +5,7 @@ source: telegram
 link: https://t.me/analytics_kaanal/46
 data_type:
   - Analytics
+author: Tolmachev
 ---
 [IIBA guide-to-business-data-analytics.pdf — Яндекс Диск](https://disk.yandex.ru/i/d2PUY5W3WhB8WQ)
 

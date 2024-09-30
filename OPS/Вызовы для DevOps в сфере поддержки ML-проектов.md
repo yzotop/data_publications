@@ -5,6 +5,8 @@ link: https://habr.com/ru/companies/cinimex/articles/824786/
 source: habr
 data_type:
   - DevOps
+company: Cinimex
+author: Cinimex
 ---
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/32c/bc7/0b4/32cbc70b44024a32c160dea98f358ade.png)
 

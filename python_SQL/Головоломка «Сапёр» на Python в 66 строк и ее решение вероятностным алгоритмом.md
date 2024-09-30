@@ -46,7 +46,7 @@ source: habr
 
 **Структура данных**
 
-```
+```python
 class Cell:    def __init__(self):        self.is_mine = False        self.revealed = False        self.adjacent_mines = 0
 ```
 

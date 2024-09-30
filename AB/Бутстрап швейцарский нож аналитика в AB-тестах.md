@@ -6,6 +6,7 @@ data_type:
   - AB tests
 source: habr
 author: Mosin
+company: Kuper
 ---
 [[База - айсберг AB тестов]]
 [[Линеаризация - зачем и как укрощать ratio-метрики в AB-тестах]]

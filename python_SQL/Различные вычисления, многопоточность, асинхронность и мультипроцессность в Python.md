@@ -5,6 +5,8 @@ tags:
 source: habr
 code_language:
   - python
+company: Sber
+author: Sber
 ---
 Всем привет! Меня зовут Дмитрий Первушин, я лидер Python-компетенций трайба ИСУ в Сбере. 
 

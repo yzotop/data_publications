@@ -6,6 +6,7 @@ data_type:
 author: Balandin
 link: https://t.me/suranalytics/108
 source: telegram
+company: Aviasales
 ---
 И речь идет не о казино (хотя интересно, есть ли там продуктовые аналитики), а про моделирование и то, как оно может помочь вам в проведении экспериментов. 
 

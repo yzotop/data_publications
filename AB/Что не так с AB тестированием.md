@@ -5,6 +5,8 @@ data_type:
   - AB tests
 link: https://habr.com/ru/companies/skyeng/articles/440692/
 source: habr
+company: Skyeng
+author: Skyeng
 ---
 Мы подготовили для читателей Хабры перевод [статьи](https://www.locallyoptimistic.com/post/against-ab-tests/?fbclid=IwAR0IY1Ai3GFMN6D95UZEcHnQVDeiUToW-n41T730Z0FUu29wWMouROxrhPc) Майкла Камински, бывшего директора по аналитике в Harry’s. Он рассуждает о том, что не так с A/B тестированием. Комментирует материал Глеб Сологуб, директор по аналитике Skyeng.
 

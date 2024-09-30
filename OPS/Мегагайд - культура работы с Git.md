@@ -5,6 +5,8 @@ link: https://habr.com/ru/companies/yandex_praktikum/articles/812139/
 source: habr
 data_type:
   - DevOps
+company: YandexPr
+author: YandexPr
 ---
 [[Как информативно оформить профиль на GitHub]]
 

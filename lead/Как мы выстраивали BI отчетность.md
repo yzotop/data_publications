@@ -6,7 +6,7 @@ data_type:
   - Lead
 link: https://m.facebook.com/story.php?story_fbid=pfbid02M88RZSTt73T8QZaHeoBfvauUupnErjY97CJKccYGqvHGRtfZzBfQhJAfjJtLMBgwl&id=100000825102629&mibextid=Nif5oz
 source: facebook
-company: Tinkoff
+company: TBank
 ---
 
 ## Как мы выстраивали BI отчетность 📈  

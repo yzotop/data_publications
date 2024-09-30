@@ -5,6 +5,8 @@ link: https://m.vk.com/@kontur_student-odin-mnogorukii-bandit-protiv-vseh-ab-tes
 data_type:
   - AB tests
 source: VK
+company: VK
+author: VK
 ---
 Продолжаем вытаскивать из нашей внутренней сети статьи наших разработчиков. В этот раз покажем вам статью [Алексея Шестакова](https://vk.com/id176107190) про замену А/Б-тестам.
 

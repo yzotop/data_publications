@@ -6,6 +6,7 @@ data_type:
   - Analytics
 link: https://t.me/suranalytics/181
 source: telegram
+company: Aviasales
 ---
  
 Сейчас все говорят про LLM, Deep Learning и AGI. Но если вы только начинаете, то сразу кидаться изучать это точно не стоит. 

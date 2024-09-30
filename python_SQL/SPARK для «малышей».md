@@ -3,6 +3,8 @@ tags:
   - data
 link: https://habr.com/ru/companies/alfa/articles/808415/
 source: habr
+company: Alfa
+author: Alfa
 ---
 
 

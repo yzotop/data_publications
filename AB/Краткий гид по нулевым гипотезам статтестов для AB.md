@@ -6,6 +6,7 @@ data_type:
 link: https://t.me/nodatanogrowth/399
 author: Bukhtik
 source: telegram
+company: Yandex
 ---
 Нулевые гипотезы статистических тестов часто забываются. И потом ты смотришь на p-value примененного теста и думаешь: «А что это в итоге означает?». 
 

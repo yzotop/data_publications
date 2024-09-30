@@ -6,6 +6,7 @@ tags:
   - data
 data_type:
   - AB tests
+company: Aviasales
 ---
 [Ускорение экспериментов с помощью VWE | Егор Сёмин, EXPF - YouTube](https://www.youtube.com/watch?v=jZNXthVqbrc)
 
